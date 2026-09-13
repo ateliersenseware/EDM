@@ -52,6 +52,11 @@ div {
     width: 100%;
 }
 
+a {
+    display: block;
+    width: 100%;
+}
+
 .first {
     background-image: url('./image/EDM-_01.jpg');
     aspect-ratio: 1080 / 100;
